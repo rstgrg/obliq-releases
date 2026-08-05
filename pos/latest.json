@@ -1,0 +1,11 @@
+{
+  "version": "0.11.38",
+  "notes": "Скасування оплати на терміналі, прискорення списку чеків/статистики дня, самооновлення (плантаж).",
+  "pub_date": "2026-08-04T23:14:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUVBxNk8xZ3JXZ0hpWHFIeHc0ek1wM2Q2T2pBWitMTVYxNTY1NmgzMnJHN0dmKzQ4cFYwQ2kzVENXS0thaGVUcStTS2hvNm8rKzB0aVhDdkVuVDk1NFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODc0NDU5CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjM4X3g2NC1zZXR1cC5leGUKeTVnTEdITHRGcWRsZTYvejh4VlJhc0w0MkJkaFFxbnVQcmlsQlBmZ2EweXB0RWx3R1F2U0I0UWxsbUdJQXVxU2Y4Zzk5enYzcThJNlZkOVlmdjB4Q0E9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.38/ObliqPOS-EliteFruit-Setup-0.11.38-x64.exe"
+    }
+  }
+}
