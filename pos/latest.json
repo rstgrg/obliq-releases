@@ -1,11 +1,11 @@
 {
-  "version": "0.11.39",
-  "notes": "Тестовий реліз для перевірки наскрізного самооновлення.",
+  "version": "0.11.40",
+  "notes": "Тестовий реліз для перевірки самооновлення.",
   "pub_date": "2026-08-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUhFbDhhQ0VNZklucGplbk00QlNUckdpaG4zY1Qxb1BtdE1ub25JcHBPMXZaVlZMTjZSWXFheWVKZVVVbGgxZHBCdkE5bWc0Y0YyK0dIbHVHT1owZXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQ0MjM5CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjM5X3g2NC1zZXR1cC5leGUKcjEvS3I2KzlhVEI0RzJGU0h3ZTJnZlkzcU02bE4rKzZXQnVUVXFYUE42a3JaS1A5MmNXV2l3WUVMWGQ0L2EzUk9oTHdBbkxwd0IvK0p0VnVwWjlEQnc9PQo=",
-      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.39/ObliqPOS-EliteFruit-Setup-0.11.39-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUZDdzJrMFdWeDFTT1V1UFMzRmRRSU5LWkFxKytLRDYveXBSd0ttTmkyUVYzeERaWUs0M2JXQld3czBLbUdnME5yNjZicVBPaXlCblRMQzBTTkdVQ2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQ2OTU0CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjQwX3g2NC1zZXR1cC5leGUKNFNvSXhFcUxNSWcyb0k4V21YajdwbEloVElPdFVFWlRXeGgwOC9sQjlpSkxyZkNkRUdla2s1ejFNdktLUlFDdkFLZGVqbDVINWxZWnBTMEtUSnNZQ2c9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.40/ObliqPOS-EliteFruit-Setup-0.11.40-x64.exe"
     }
   }
 }
