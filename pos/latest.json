@@ -1,11 +1,11 @@
 {
-  "version": "0.11.48",
-  "notes": "Терміновий фікс: respawn драйвера термінала чекає ≥60с від запуску (регрес v0.11.43 не давав терміналу підключитись узагалі).",
-  "pub_date": "2026-08-12T15:06:09Z",
+  "version": "0.11.49",
+  "notes": "Самооновлення вбиває процес драйвера термінала перед встановленням (фікс помилки про заблокований файл).",
+  "pub_date": "2026-08-12T15:25:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUhjc3RiMDFzNkNGcGt5a0JhM1krYWVRWHk2eWVQSGxESVZ1NmdjS0g4L3g1c1lyVzhHU1lVc0tJTnJtRzREN3FTNDgvNVcvMUY4R1EvVHhaWHQ1Nnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ3MTE2CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjQ4X3g2NC1zZXR1cC5leGUKei9CaGtKT21GWUFEdEoxdXBZamFGNlluNzdsT2U4Vk0xNmMwN0oyNFVNblhybkcvOEVGdTBCcm4yczVySEZlUlEvWXhweTBMeE1uR0JmNlRSeW9XRGc9PQo=",
-      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.48/ObliqPOS-EliteFruit-Setup-0.11.48-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUJLU0hvckpQYllQd1UxZEN3K0RXQm9uTVJ4UFpOc0g3c283WUdmaytDdXljN0pRWVdMajBaTnVMKzh2a3poTGF6OVl4Qk1mYktqVVhQbnNNSDNrOFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ3NjY1CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjQ5X3g2NC1zZXR1cC5leGUKNjVtTE5ibnZHTFkyY0RBN3ovR0JnajR5N3RsRUJIQTd1L0VVMnordkVTUUVpYktRUWNIVHE4YlVIOFBrNm9xT3d1c0F6bTE4d3dWRDJvWnNZMmV0REE9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.49/ObliqPOS-EliteFruit-Setup-0.11.49-x64.exe"
     }
   }
 }
