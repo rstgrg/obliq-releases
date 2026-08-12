@@ -1,11 +1,11 @@
 {
-  "version": "0.11.40",
-  "notes": "Тестовий реліз для перевірки самооновлення.",
-  "pub_date": "2026-08-05T00:00:00Z",
+  "version": "0.11.46",
+  "notes": "Готівка через ПРРО (перемикач), Z-звіт з готівкою, самозцілення драйвера термінала, фікс перегону синку каси дня, блок повернення без готівки в касі.",
+  "pub_date": "2026-08-12T08:16:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUZDdzJrMFdWeDFTT1V1UFMzRmRRSU5LWkFxKytLRDYveXBSd0ttTmkyUVYzeERaWUs0M2JXQld3czBLbUdnME5yNjZicVBPaXlCblRMQzBTTkdVQ2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQ2OTU0CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjQwX3g2NC1zZXR1cC5leGUKNFNvSXhFcUxNSWcyb0k4V21YajdwbEloVElPdFVFWlRXeGgwOC9sQjlpSkxyZkNkRUdla2s1ejFNdktLUlFDdkFLZGVqbDVINWxZWnBTMEtUSnNZQ2c9PQo=",
-      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.40/ObliqPOS-EliteFruit-Setup-0.11.40-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUg5QVc1QlU2SlBJOXNGRzNmQkZzVFNKZlpnSW5JOW0rWlRwQ090Q25CeGRkc3FqN0hIclNxNllDZXQwdUtVSGFJQmVwdUFDbVVGdjhwQVg5YTlXcndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTIyNTQ3CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjQ2X3g2NC1zZXR1cC5leGUKZ1RVL2xpU25mdEFNYWRUdnpLZEN0Zzkwb3JxNHJxc2VuMXZMeDJjeml4Yk15SGdxV2ZQUmpzOFBLK2Vvc0djeFdzWmVkQmcwMDh1S0YvKzVFSWFOQ0E9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.46/ObliqPOS-EliteFruit-Setup-0.11.46-x64.exe"
     }
   }
 }
