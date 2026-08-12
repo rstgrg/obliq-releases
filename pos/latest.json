@@ -1,11 +1,11 @@
 {
-  "version": "0.11.47",
-  "notes": "Перемикач «Фіскалізувати готівкові чеки» гейтований правом pos.fiscal_toggle (перевіряється в Rust).",
-  "pub_date": "2026-08-12T09:35:29Z",
+  "version": "0.11.48",
+  "notes": "Терміновий фікс: respawn драйвера термінала чекає ≥60с від запуску (регрес v0.11.43 не давав терміналу підключитись узагалі).",
+  "pub_date": "2026-08-12T15:06:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUpnRDVkL0NyNU1DQkt1enY3djhXL1pFOVVrU2pmSXRuTVZSQUE4aGsvd1BnSGlDZDFEeDFySlJERE5iVmIrbXE3ZnRjMFVQbG5zeDNmTXRZWEk1SHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTI3MTY2CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjQ3X3g2NC1zZXR1cC5leGUKZ0YzMCtJa3BrMld3UzZaMCtTdlM3aUdlVWxrWHBBL09kYVV6cmFPTEoxOTIyUnJuTTVpWExRN3RGMk01WmpFdjRtZllQWUxqK1B3cUlLaTdrZWFLQUE9PQo=",
-      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.47/ObliqPOS-EliteFruit-Setup-0.11.47-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMDd2dEdERVdrUUhjc3RiMDFzNkNGcGt5a0JhM1krYWVRWHk2eWVQSGxESVZ1NmdjS0g4L3g1c1lyVzhHU1lVc0tJTnJtRzREN3FTNDgvNVcvMUY4R1EvVHhaWHQ1Nnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTQ3MTE2CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjQ4X3g2NC1zZXR1cC5leGUKei9CaGtKT21GWUFEdEoxdXBZamFGNlluNzdsT2U4Vk0xNmMwN0oyNFVNblhybkcvOEVGdTBCcm4yczVySEZlUlEvWXhweTBMeE1uR0JmNlRSeW9XRGc9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.48/ObliqPOS-EliteFruit-Setup-0.11.48-x64.exe"
     }
   }
 }
