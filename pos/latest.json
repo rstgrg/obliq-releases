@@ -1,11 +1,11 @@
 {
-  "version": "0.11.51",
-  "notes": "Довге утримання (1с) плитки товару відкриває ручний ввід кількості/ваги — для вагового товару, коли треба зважити на вазі, не підключеній до цього ПК.",
-  "pub_date": "2026-09-17T19:32:09Z",
+  "version": "0.11.52",
+  "notes": "Ротація ключа підпису самооновлення. Трохи коротша затримка затиску плитки (0.7с) для ручного вводу ваги.",
+  "pub_date": "2026-09-19T11:27:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRTZkV20rTWJmS3lRVkxkRHRERXNNK1NhdUd4VFFrZ3JmeFZjMldHd0ROZkE4N2ZsTFJGN21INEg0K2JjRmk5MEtYdy9uRTB1ZU9iNitaNTFoUFErYmpKajNRbzRUQUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcxNjk5CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjUxX3g2NC1zZXR1cC5leGUKZkl3TzlsZjJabFFISFVPU252K2EyMFlPRC9qc0lGL1BpZnExUnpjdFdWMzl1U29nTWRCYU9YMkZqUDlhSjE0QzZIUlRNcEdKTklyY1ZMSSt4NE02QXc9PQo=",
-      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.51/ObliqPOS-EliteFruit-Setup-0.11.51-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEwSFRHajBHRE9vaTc5QWlkbXdkZlNZdUNaaXBSaTlWYmJHTE1DWDBIQ3dOWWlTZzhlZFpKVnkwM0lJdXg0bDZUWUpEZmhoMCtPdUtWSXlpK0JibUNldGZrZjhZTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODE3MjEyCWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjUyX3g2NC1zZXR1cC5leGUKRjZyaVhJVTlrd3p4TTJsaHptYXVwVEpVcjVGSitJUzB6dUIzSncyRXBVU1dob3NoVXBLeGtNS0Z6MXRsR0p6cDBSZkVEZmg0bnZCUmJsM2tWeU1HQXc9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.52/ObliqPOS-EliteFruit-Setup-0.11.52-x64.exe"
     }
   }
 }
