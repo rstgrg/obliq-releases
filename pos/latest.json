@@ -1,11 +1,11 @@
 {
-  "version": "0.11.52",
-  "notes": "Ротація ключа підпису самооновлення. Трохи коротша затримка затиску плитки (0.7с) для ручного вводу ваги.",
-  "pub_date": "2026-09-19T11:27:50Z",
+  "version": "0.11.53",
+  "notes": "Фікс: пауза не зупиняла вагу (UniScalesDriver.exe) перед самооновленням — тепер обидва драйвери (термінал+вага) коректно зупиняються перед встановленням.",
+  "pub_date": "2026-09-24T19:04:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEwSFRHajBHRE9vaTc5QWlkbXdkZlNZdUNaaXBSaTlWYmJHTE1DWDBIQ3dOWWlTZzhlZFpKVnkwM0lJdXg0bDZUWUpEZmhoMCtPdUtWSXlpK0JibUNldGZrZjhZTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODE3MjEyCWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjUyX3g2NC1zZXR1cC5leGUKRjZyaVhJVTlrd3p4TTJsaHptYXVwVEpVcjVGSitJUzB6dUIzSncyRXBVU1dob3NoVXBLeGtNS0Z6MXRsR0p6cDBSZkVEZmg0bnZCUmJsM2tWeU1HQXc9PQo=",
-      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.52/ObliqPOS-EliteFruit-Setup-0.11.52-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEwSFRHajBHREt4TEZnSW1hZC9vWFBaclZGMWs2L3FSREtWRXZoMElFTU5jZ3ZZN1NYNk1TUlJEemRlbTRTUVhwUWN2ajJEdWtoYy9IL3c2aHNZR2UxVzc0SkFXU2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjc2NjI0CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjUzX3g2NC1zZXR1cC5leGUKbTZYTUFYRFJTb1ltRzkrcVE4RlVnS2JYMXNlZ1hIVjNDTmpOL05EUjJzbHBwN3pORmJhSUJJY0g5L3pMZ0Uyc1psTDFPenkvQ01tQjNjS3dKaDYwQ1E9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.53/ObliqPOS-EliteFruit-Setup-0.11.53-x64.exe"
     }
   }
 }
