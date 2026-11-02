@@ -1,11 +1,11 @@
 {
-  "version": "0.11.59",
-  "notes": "Заокруглення сум рядків до гривні (вмикається на ПК, знижка показується в чеку і йде в ПРРО); службові видачі/внесення в Checkbox, обов'язкова повна інкасація при закритті дня; ручна ціна рядка (затиск) і ручна вага.",
-  "pub_date": "2026-10-30T18:23:13Z",
+  "version": "0.11.60",
+  "notes": "Заокруглення підсумку чека до гривні (знижка одним рядком, одна знижка в ПРРО); окремий POS-перемикач із хаба; єдиний список службових операцій і чеків за часом.",
+  "pub_date": "2026-11-02T21:03:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEwSFRHajBHRE11OWhBbk5yU2cyVVBvMldGWEM3OVoveElTS3lJRDBkK21GaVZzd0FKVXE1bG9RTldERHE4c3JYcnk4L2w3RGoreUN4MkxxTDZUVTJmcUFIUmpBK0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg0MjMwCWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjU5X3g2NC1zZXR1cC5leGUKZzFianJRYzRkTE5kRjZUdVlGem9RejQ0aVVRVHliZjNRY245bXNoaHQ1bnkwN25LaEVoUHljYzVzeDY3VlAzTG1QVmx3eDRxRlNMbGY0dDVKSkVpQkE9PQo=",
-      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.59/ObliqPOS-EliteFruit-Setup-0.11.59-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVnEwSFRHajBHREcvbDdnNE44S09MbmovVVFvZ3JwY1RkWXBMcFlKMGxpY1RLclFPeHlERjFUU1F6YW83eHgzcHpkMmlkNjZIN0E0WHVaQTVqeDRtdHF2eXJCRUVndVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjUxMzc3CWZpbGU6T2JsaXFQT1MgRWxpdGVGcnVpdF8wLjExLjYwX3g2NC1zZXR1cC5leGUKZTI5NTBPMTMycWI3Y0YrSUEzRkppV2wwdldlUkRoSnMvblVmdWtMaUpBeUh0S0xpRXhHcDA3WTI4cmFJdXIvYTF1enpLcnRVZHNJMlZaRzErdXBNQ0E9PQo=",
+      "url": "https://github.com/rstgrg/obliq-releases/releases/download/pos-v0.11.60/ObliqPOS-EliteFruit-Setup-0.11.60-x64.exe"
     }
   }
 }
